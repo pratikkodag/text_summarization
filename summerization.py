@@ -6,7 +6,7 @@ import os
 st.set_page_config(page_title="Text Summarization", page_icon="📝")
 
 # Title of the Webpage
-st.title("Text Summarization Application")
+st.title("Text Summarizer")
 
 # Load model and tokenizer (make sure the folder path is correct)
 
